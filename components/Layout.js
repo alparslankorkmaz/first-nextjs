@@ -19,7 +19,6 @@ export default function Layout({ children }) {
       <Header />
       <main>{children}</main>
       <Footer />
-      <Script type="text/javascript" src="./js/slider.js" />
       <Script type="text/javascript" src="./js/scripts.js" />
       <Script type="text/javascript" src="./js/menu.js" />
     </>

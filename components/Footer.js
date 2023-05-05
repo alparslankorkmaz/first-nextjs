@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Footer() {
   return (
     <>
@@ -182,10 +180,10 @@ export default function Footer() {
                   <div className="row">
                     <div className="products-contact-info col-md-6">
                       <h5>PRODUCTS</h5>
-                      <Link href="/organic">Organic</Link>
-                      <Link href="/petfood">Pet Food</Link>
-                      <Link href="/animalfeed">Non GM and Animal Feed</Link>
-                      <Link href="/ports">Ports and Storage</Link>
+                      <a href="/organic">Organic</a>
+                      <a href="/petfood">Pet Food</a>
+                      <a href="/animalfeed">Non GM and Animal Feed</a>
+                      <a href="/ports">Ports and Storage</a>
                     </div>
                     <div className="products-contact-info col-md-6 mt-5 mt-md-0">
                       <h5>CONTACT US</h5>
@@ -206,12 +204,12 @@ export default function Footer() {
                 </div>
 
                 <div className="socials col-4 col-md-1 mt-5">
-                  <Link href="https://uk.linkedin.com/company/feed-factors-limited?original_referer=https%3A%2F%2Fwww.google.com%2F">
+                  <a href="https://uk.linkedin.com/company/feed-factors-limited?original_referer=https%3A%2F%2Fwww.google.com%2F">
                     <img
                       src="./images/footer/linkedin-logo.png"
                       className="linkedin col-3"
                     />
-                  </Link>
+                  </a>
                 </div>
               </div>
             </div>
@@ -222,24 +220,24 @@ export default function Footer() {
           <div className="container d-flex align-items-center justify-content-around">
             <div className="row justify-content-center col-md-8">
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="/cookieconsent">Cookie Consent</Link>
+                <a href="/cookieconsent">Cookie Consent</a>
               </div>
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="/privacy">Privacy</Link>
+                <a href="/privacy">Privacy</a>
               </div>
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="/termsofuse">Terms of use</Link>
+                <a href="/termsofuse">Terms of use</a>
               </div>
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="/sustainability">Sustainability</Link>
+                <a href="/sustainability">Sustainability</a>
               </div>
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="/humanrights">Human rights</Link>
+                <a href="/humanrights">Human rights</a>
               </div>
               <div className="col-md-2 line-links d-flex align-items-center justify-content-center">
-                <Link href="./pdf/tax-strategy.pdf" target="_blank">
+                <a href="./pdf/tax-strategy.pdf" target="_blank">
                   Tax strategy
-                </Link>
+                </a>
               </div>
             </div>
           </div>

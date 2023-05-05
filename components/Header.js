@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 export default function Header() {
   return (
     <>
@@ -123,9 +121,9 @@ export default function Header() {
                         non gm & animal feed
                       </a>
                       <br />
-                      <Link className="link2" href="/organic">
+                      <a className="link2" href="/organic">
                         organic
-                      </Link>
+                      </a>
                       <br />
                       <a className="link2" href="/petfood">
                         pet food

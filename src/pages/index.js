@@ -1,4 +1,5 @@
 import Layout from "../../components/Layout";
+import Script from "next/script";
 
 export default function Home() {
   return (
@@ -46,7 +47,11 @@ export default function Home() {
             src="./images/homepage/wheatmobile.jpg"
             alt="wheat field"
           />
-          <div data-aos="fade-left" className="home-info d-flex">
+          <div
+            data-aos="fade-left"
+            data-aos-delay="300"
+            className="home-info d-flex"
+          >
             <div className="row justify-content-evenly align-items-center">
               <div className="col-md-4 p-4 my-sm-0 my-md-4">
                 <h2 className="lh-base">
@@ -199,6 +204,8 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <Script src="./js/title.js" />
+        <Script type="text/javascript" src="./js/slider.js" />
       </Layout>
     </>
   );
