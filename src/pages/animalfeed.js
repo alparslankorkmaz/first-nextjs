@@ -21,7 +21,7 @@ export default function animalfeed() {
             <img
               src="./images/products/chickens.jpg"
               alt=""
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>

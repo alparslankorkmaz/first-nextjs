@@ -20,7 +20,7 @@ export default function charity() {
             <img
               src="./images/charity/charity.jpg"
               alt=""
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>

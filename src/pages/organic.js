@@ -23,7 +23,7 @@ export default function organic() {
             <img
               src="./images/products/organic.jpg"
               alt="leaf"
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>

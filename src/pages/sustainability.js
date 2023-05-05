@@ -45,13 +45,13 @@ export default function contact() {
             <img
               src="./images/sustainability.jpg"
               alt=""
-              srcset=""
+              srcSet=""
               className="value-img w-100 d-none d-md-block"
             />
             <img
               src="./images/sustainabilitymb.jpg"
               alt=""
-              srcset=""
+              srcSet=""
               className="value-img w-100 h-75 d-block d-md-none"
             />
             <div className="value-content p-3 p-md-5 d-flex flex-column justify-content-center lh-lg">

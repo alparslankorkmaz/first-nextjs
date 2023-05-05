@@ -19,7 +19,7 @@ export default function ports() {
             <img
               src="./images/products/ports.jpg"
               alt=""
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>

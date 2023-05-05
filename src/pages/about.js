@@ -18,7 +18,7 @@ export default function about() {
             <img
               src="./images/about-us/aboutus.jpeg"
               alt=""
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>

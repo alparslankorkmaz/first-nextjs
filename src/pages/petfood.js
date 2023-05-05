@@ -21,7 +21,7 @@ export default function petfood() {
             <img
               src="./images/products/dog2.jpeg"
               alt=""
-              srcset=""
+              srcSet=""
               className="col-md-8 px-0"
             />
           </div>
