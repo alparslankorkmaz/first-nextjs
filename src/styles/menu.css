@@ -72,7 +72,7 @@ nav ul li a {
 
 nav li:nth-of-type(1) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/home.jpg");
+    url("/images/menu/home.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -84,7 +84,7 @@ nav li:nth-of-type(1):hover {
 }
 nav li:nth-of-type(2) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/about.jpg");
+    url("/images/menu/about.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@ nav li:nth-of-type(2):hover {
 
 nav li:nth-of-type(3) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/products.jpg");
+    url("/images/menu/products.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -110,7 +110,7 @@ nav li:nth-of-type(3):hover {
 
 nav li:nth-of-type(4) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/port.jpg");
+    url("/images/menu/port.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -123,7 +123,7 @@ nav li:nth-of-type(4):hover {
 
 nav li:nth-of-type(5) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/charity.jpg");
+    url("/images/menu/charity.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -136,7 +136,7 @@ nav li:nth-of-type(5):hover {
 
 nav li:nth-of-type(6) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/awards.jpg");
+    url("/images/menu/awards.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -149,7 +149,7 @@ nav li:nth-of-type(6):hover {
 
 nav li:nth-of-type(7) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/sustain.jpg");
+    url("/images/menu/sustain.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -162,7 +162,7 @@ nav li:nth-of-type(7):hover {
 
 nav li:nth-of-type(8) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/menu/contact.jpg");
+    url("/images/menu/contact.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -493,7 +493,7 @@ Animation keyframes
 
 #list2 li:nth-of-type(1) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/product-menu/pm-organic.jpg");
+    url("/images/product-menu/pm-organic.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -506,7 +506,7 @@ Animation keyframes
 
 #list2 li:nth-of-type(2) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/product-menu/pm-chicken.jpg");
+    url("/images/product-menu/pm-chicken.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -519,7 +519,7 @@ Animation keyframes
 
 #list2 li:nth-of-type(3) {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url("../../public/images/product-menu/pm-dog.jpg");
+    url("/images/product-menu/pm-dog.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
