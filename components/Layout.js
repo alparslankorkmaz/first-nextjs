@@ -15,6 +15,9 @@ export default function Layout({ children }) {
     <>
       <Head>
         <title>Feed Factors</title>
+        <link href="./styles/slider.css" rel="stylesheet" />
+        <link href="./styles/globals.css" rel="stylesheet" />
+        <link href="./styles/menu.css" rel="stylesheet" />
       </Head>
       <Header />
       <main>{children}</main>
