@@ -6,7 +6,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   min-height: 100vh;
-  background: url("../../public/images/header/background.jpg");
+  background: url("./images/header/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -375,7 +375,7 @@ footer {
 /* CAROUSEL ENDS */
 
 footer .footer-content {
-  background-image: url("../../public/images/footer/footerbg.png");
+  background-image: url("./images/footer/footerbg.png");
   background-color: #333333;
   background-position: center center;
   background-repeat: no-repeat;
