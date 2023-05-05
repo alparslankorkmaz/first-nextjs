@@ -4,13 +4,13 @@ export default function Valueadded() {
       <div className="row py-5">
         <div className="value-added mt-5">
           <img
-            src="{{siteUrl}}static/images/value.jpeg"
+            src="./images/value.jpeg"
             alt=""
             srcset=""
             className="value-img w-100 d-none d-md-block"
           />
           <img
-            src="{{siteUrl}}static/images/valuemb.jpeg"
+            src="./images/valuemb.jpeg"
             alt=""
             srcset=""
             className="value-img w-100 d-block d-md-none"
