@@ -1,5 +1,5 @@
-import Layout from "@/components/Layout";
-import Valueadded from "@/components/Valueadded";
+import Layout from "../components/Layout";
+import Valueadded from "../components/Valueadded";
 
 export default function organic() {
   return (
