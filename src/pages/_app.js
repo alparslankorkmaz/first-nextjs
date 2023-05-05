@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "@/styles/layout.css";
 import "@/styles/menu.css";
 import "@/styles/slider.css";
 
